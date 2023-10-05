@@ -1,0 +1,12 @@
+Klasterovanje - neuredjenost proteina:
+Ocenjena vrednost- Horvitz-Thompson:[1] 402370.3
+Ocena totala- psu bez ponavljanja: [1] 306408.3
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene - psu bez ponavljanja: [1] 6219025048
+Broj jedinki u uzorku: [1] 1036651
+
+Klasterovanje - neuredjenost proteina:
+Ocenjena vrednost- psu bez ponavljanja:[1] 320552.1
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene - psu bez ponavljanja: [1] 37475457
+Broj jedinki u uzorku: [1] 1036651

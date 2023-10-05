@@ -1,0 +1,23 @@
+Stratifikovano uzorkovanje - neuredjenost proteina:
+Ocenjena vrednost:[1] 325904
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 3427.94
+Broj jedinki u uzorku: [1] 942412
+
+Stratifikovano uzorkovanje - neuredjenost proteina:
+Ocenjena vrednost:[1] 325846.1
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 1142.739
+Broj jedinki u uzorku: [1] 1413616
+
+Stratifikovano uzorkovanje - neuredjenost proteina:
+Ocenjena vrednost:[1] 325870.5
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 380.8346
+Broj jedinki u uzorku: [1] 1696340
+
+Stratifikovano uzorkovanje - neuredjenost proteina:
+Ocenjena vrednost:[1] 325889.2
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 0.2522913
+Broj jedinki u uzorku: [1] 1884715

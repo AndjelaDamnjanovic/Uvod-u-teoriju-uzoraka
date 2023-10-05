@@ -1,0 +1,5 @@
+Stratifikovani uzorak, uzorkovanje bez ponavljanja - intersect_ind:
+Ocenjena vrednost:[1] 108893
+Vrednost totala: [1] 108893
+Broj jedinki u uzorku: [1] 942410
+Ocena disperzije ocene: [1] 0

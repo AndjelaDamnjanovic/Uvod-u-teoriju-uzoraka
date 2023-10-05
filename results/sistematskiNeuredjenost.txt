@@ -1,0 +1,11 @@
+Sistematsko uzorkovanje - neuredjenost proteina:
+Ocenjena vrednost:[1] 0.1729133
+Vrednost sredine: [1] 0.1729023
+Disperzija sredine: [1] 0.00000000003738765
+Broj jedinki u uzorku: [1] 314137
+
+Sistematsko uzorkovanje - neuredjenost proteina:
+Ocenjena vrednost:[1] 0.1729045
+Vrednost sredine: [1] 0.1729023
+Disperzija sredine: [1] 0.000000000001635157
+Broj jedinki u uzorku: [1] 628274

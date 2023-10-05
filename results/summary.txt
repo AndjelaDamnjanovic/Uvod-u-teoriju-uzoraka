@@ -1,0 +1,8 @@
+Here are my results:
+   repeat.            taxonomy         disorder_content  intersect_ind      contains_ind   
+ Length:1884822     Length:1884822     Min.   :0.00000   Min.   :0.00000   Min.   :0.0000  
+ Class :character   Class :character   1st Qu.:0.06265   1st Qu.:0.00000   1st Qu.:0.0000  
+ Mode  :character   Mode  :character   Median :0.06265   Median :0.00000   Median :0.0000  
+                                       Mean   :0.17290   Mean   :0.05777   Mean   :0.1202  
+                                       3rd Qu.:0.17713   3rd Qu.:0.00000   3rd Qu.:0.0000  
+                                       Max.   :1.00000   Max.   :1.00000   Max.   :1.0000  

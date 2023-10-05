@@ -1,0 +1,11 @@
+Sistematsko uzorkovanje - indikator sadrzanja:
+Ocenjena vrednost:[1] 0.1314076
+Vrednost sredine: [1] 0.12018
+Disperzija sredine: [1] 0.0000829115
+Broj jedinki u uzorku: [1] 314137
+
+Sistematsko uzorkovanje - indikator sadrzanja:
+Ocenjena vrednost:[1] 0.1220582
+Vrednost sredine: [1] 0.12018
+Disperzija sredine: [1]  0.00000227279
+Broj jedinki u uzorku: [1] 628274

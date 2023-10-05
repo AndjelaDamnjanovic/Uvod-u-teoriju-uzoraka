@@ -1,0 +1,12 @@
+Klasterovanje- jednaka velicina klastera - indikator sadrzanja:
+Ocenjena vrednost:[1] 226518.3
+Vrednost totala: [1] 226518
+Ocena disperzije ocene: [1] 1.111111
+Broj jedinki u uzorku: [1] 1130893
+
+Klasterovanje- nejednaka velicina klastera - indikator sadrzanja:
+Ocenjena vrednost- Horvitz-Thompsonova ocena:[1] 275679
+Ocena totala - psu bez ponavljanja: [1] 226518
+Ocena disperzije ocene - psu bez ponavljanja: [1] 2708084354
+Vrednost totala: [1] 207641.7
+Broj jedinki u uzorku: [1] 1130893

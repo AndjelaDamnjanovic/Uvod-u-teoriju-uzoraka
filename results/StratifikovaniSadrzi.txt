@@ -1,0 +1,5 @@
+Stratifikovani uzorak, uzorkovanje bez ponavljanja - contains_ind:
+Ocenjena vrednost:[1] 226518
+Vrednost totala: [1] 226518
+Broj jedinki u uzorku: [1] 942411
+Ocena disperzije ocene: [1] 0

@@ -1,0 +1,27 @@
+Uzorkovanje bez ponavljanja - neuredjenost proteina:
+Ocenjena vrednost:[1] 325890.4
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 1.240694
+Disperzija ocene: [1] 1.240694
+Broj jedinki u uzorku: [1] 1884800
+
+Uzorkovanje bez ponavljanja - neuredjenost proteina:
+Ocenjena vrednost:[1] 325890
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 2.36862
+Disperzija ocene: [1] 2.36862
+Broj jedinki u uzorku: [1] 1884780
+
+Uzorkovanje bez ponavljanja - neuredjenost proteina:
+Ocenjena vrednost:[1] 325889.5
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 2.932581
+Disperzija ocene: [1] 2.932581
+Broj jedinki u uzorku: [1] 1884770
+
+Uzorkovanje bez ponavljanja - neuredjenost proteina:
+Ocenjena vrednost:[1] 325890.3
+Vrednost totala: [1] 325890.2
+Ocena disperzije ocene: [1] 3.496572
+Disperzija ocene: [1] 3.496572
+Broj jedinki u uzorku: [1] 1884760

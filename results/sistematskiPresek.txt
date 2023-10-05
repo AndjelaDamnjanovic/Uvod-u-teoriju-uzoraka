@@ -1,0 +1,12 @@
+Sistematsko uzorkovanje - indikator preseka:
+Ocenjena vrednost:[1] 0.06464695
+Vrednost sredine: [1] 0.05777363
+Disperzija sredine: [1] 0.00005871577
+Broj jedinki u uzorku: [1] 314137
+
+Sistematsko uzorkovanje - indikator preseka:
+Ocenjena vrednost:[1] 0.05720275
+Vrednost sredine: [1] 0.05777363
+Disperzija sredine: [1] 0.0000001670036
+Broj jedinki u uzorku: [1] 628274
+

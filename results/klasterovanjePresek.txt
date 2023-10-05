@@ -1,0 +1,12 @@
+Klasterovanje- jednaka velicina klastera - indikator preseka:
+Ocenjena vrednost:[1] 108893.3
+Vrednost totala: [1] 108893
+Ocena disperzije ocene: [1] 1.111111
+Broj jedinki u uzorku: [1] 1130893
+
+Klasterovanje- nejednaka velicina klastera - indikator preseka:
+Ocenjena vrednost-Horvitz-Thompsonova ocena:[1] 132529.1
+Vrednost totala ocenjena metodom psu bez ponavljanja: [1] 99820
+Ocena disperzije ocene-psu bez ponavljanja: [1] 625812003
+Vrednost totala: [1] 108893
+Broj jedinki u uzorku: [1] 1036652

@@ -1,0 +1,29 @@
+Uzorkovanje sa ponavljanjem - stepen neuredjenosti:
+Ocenjena vrednost:[1] 135975.3
+Vrednost totala: [1] 325890.2
+Broj jedinki u uzorku: [1] 10
+
+Uzorkovanje sa ponavljanjem - stepen neuredjenosti:
+Ocenjena vrednost:[1] 125234.6
+Vrednost totala: [1] 325890.2
+Broj jedinki u uzorku: [1] 15
+
+Uzorkovanje sa ponavljanjem - indikator preseka:
+Ocenjena vrednost:[1] 0
+Vrednost totala: [1] 108893
+Broj jedinki u uzorku: [1] 10
+
+Uzorkovanje sa ponavljanjem - indikator preseka:
+Ocenjena vrednost:[1] 0
+Vrednost totala: [1] 108893
+Broj jedinki u uzorku: [1] 15
+
+Uzorkovanje sa ponavljanjem - indikator sadrzanja:
+Ocenjena vrednost:[1] 0
+Vrednost totala: [1] 226518
+Broj jedinki u uzorku: [1] 10
+
+Uzorkovanje sa ponavljanjem - indikator sadrzanja:
+Ocenjena vrednost:[1] 0
+Vrednost totala: [1] 226518
+Broj jedinki u uzorku: [1] 15

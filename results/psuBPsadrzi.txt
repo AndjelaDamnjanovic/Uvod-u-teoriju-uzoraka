@@ -1,0 +1,27 @@
+Uzorkovanje bez ponavljanja - contains_ind:
+Ocenjena vrednost:[1] 226519.6
+Vrednost totala: [1] 226518
+Ocena disperzije ocene: [1] 2.326253
+Disperzija ocene: [1] 2.326253
+Broj jedinki u uzorku: [1] 1884800
+
+Uzorkovanje bez ponavljanja - contains_ind:
+Ocenjena vrednost:[1] 226518
+Vrednost totala: [1] 226518
+Ocena disperzije ocene: [1] 4.441048
+Disperzija ocene: [1] 4.441048
+Broj jedinki u uzorku: [1] 1884780
+
+Uzorkovanje bez ponavljanja - contains_ind:
+Ocenjena vrednost:[1] 226515.2
+Vrednost totala: [1] 226518
+Ocena disperzije ocene: [1] 5.498411
+Disperzija ocene: [1] 5.498411
+Broj jedinki u uzorku: [1] 1884770
+
+Uzorkovanje bez ponavljanja - contains_ind:
+Ocenjena vrednost:[1] 226515.5
+Vrednost totala: [1] 226518
+Ocena disperzije ocene: [1] 6.555837
+Disperzija ocene: [1] 6.555837
+Broj jedinki u uzorku: [1] 1884760
